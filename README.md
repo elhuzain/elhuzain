@@ -13,5 +13,5 @@ A Software Developer based in Egypt. I specialize in making end-to-end web appli
 
 [![Email](/image/email.png)](mailto:hello@elhuzain.com)
 [![Portfolio](/image/portfolio.png)](https://elhuzain.com)
-[![Discord](/image/discord.png)](https://discord.com/users/306117395486081025)
-[![WhatsApp](/image/whatsapp.png)](https://wa.me/201105462032)
+[![Discord](/image/discord.png)](https://discord.gg/ubgv5sD8NN)
+[![WhatsApp](/image/whatsapp.png)](https://wa.me/201044133660)
