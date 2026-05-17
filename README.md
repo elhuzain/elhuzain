@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmed Huzain 👋
 
-A Software Developer based in Egypt. I specialize in making end-to-end web applications and I’m currently working as a software engineer ctcHealth.
+A Software Developer based in Egypt. I specialize in making end-to-end web applications and I’m currently working as a software engineer at ctcHealth.
 
 - 🧠 Currently pursuing Masters Degree in Computer Science
 - 🤍 Minimalist at heart
