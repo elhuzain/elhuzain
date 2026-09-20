@@ -11,6 +11,6 @@ A Software Developer based in Egypt. I specialize in making end-to-end web appli
 
 ### 📫 Let's Connect
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/elhuzain)
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elhuzain)
 [![](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ubgv5sD8NN)
 [![](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@elhuzain.com)
