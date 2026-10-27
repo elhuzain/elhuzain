@@ -6,8 +6,8 @@ A Software Developer based in Egypt. I specialize in making end-to-end web appli
 
 - 🧠 Currently pursuing Masters Degree in Computer Science
 - 🤍 Minimalist at heart
-- 📷 Hobbyist [Photographer](https://elhuzain.com/photography)
-- 🐱 Cat dad to five [absolute cuties](https://elhuzain.com/cats)  
+- 📷 Hobbyist Photographer
+- 🐱 Cat dad to five absolute cuties
 
 ### 📫 Let's Connect
 
